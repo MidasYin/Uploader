@@ -1,0 +1,23 @@
+onlineUrl: http://ecg-java.landmind.cn
+onlineUsername:
+onlinePassword:
+#baseUrl: http://ecg-java-release.landmind.cn
+baseUrl: http://ecg-dis-dev.landmind.cn
+username:
+        - "uploader-zxq"
+#        - "hzzxs-uploader"
+        - "lnn-uploader"
+#        - "uploader-lanjing"
+password: "123456"
+files:
+    - "4764.zip"
+    - "4666.zip"
+    - "4425.zip"
+    - "4548.zip"
+    - "4729.zip"
+    - "4865.zip"
+    - "4867.zip"
+    - "4889.zip"
+
+
+
